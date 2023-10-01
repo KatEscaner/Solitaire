@@ -1,5 +1,5 @@
 ﻿Solitaire
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Solitaire\Solitaire\App.xaml
 1-1095832286
 
-51956970847
+3-241185723
 194183970531
 views\Game.xaml;
 

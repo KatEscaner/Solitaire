@@ -10,15 +10,14 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Solitaire {
+namespace Solitaire.views {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Lógica de interacción para Game.xaml
     /// </summary>
-    public partial class MainWindow : Window {
-        public MainWindow( ) {
+    public partial class Game : Window {
+        public Game( ) {
             InitializeComponent( );
         }
     }
